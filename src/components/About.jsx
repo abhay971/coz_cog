@@ -2,10 +2,10 @@ const About = () => {
   return (
     <section
       id="about"
-      className="py-20 bg-gradient-to-br from-gray-50 via-white to-gray-50"
+      className="py-12 md:py-20 bg-gradient-to-br from-gray-50 via-white to-gray-50 overflow-hidden"
     >
-      <div className="max-w-7xl mx-auto px-6">
-        <div className="grid md:grid-cols-2 gap-16 items-center">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6">
+        <div className="grid md:grid-cols-2 gap-8 md:gap-16 items-center">
           {/* Left Content */}
           <div className="space-y-6 scroll-animate-left">
             <div className="inline-block">

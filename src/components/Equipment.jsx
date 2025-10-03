@@ -51,7 +51,7 @@ const Equipment = () => {
   const regularProducts = products.filter((p) => !p.featured);
 
   return (
-    <section id="equipment" className="py-24 bg-white relative overflow-hidden">
+    <section id="equipment" className="py-12 md:py-24 bg-white relative overflow-hidden">
       {/* Simple Clean Background Pattern */}
       <div className="absolute inset-0 opacity-5">
         <div
@@ -62,7 +62,7 @@ const Equipment = () => {
         ></div>
       </div>
 
-      <div className="max-w-7xl mx-auto px-6 relative z-10">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 relative z-10">
         {/* Header */}
         <div className="text-center mb-16 scroll-animate">
           <div className="inline-block mb-4">

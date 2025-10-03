@@ -1,11 +1,11 @@
 const Stats = () => {
   return (
-    <section className="relative py-20 bg-white overflow-hidden">
+    <section className="relative py-12 md:py-20 bg-white overflow-hidden">
       {/* Background Pattern with light overlay */}
       <div className="absolute inset-0 bg-gradient-to-r from-gray-50 to-white opacity-50"></div>
 
-      <div className="max-w-7xl mx-auto px-6 relative z-10">
-        <div className="grid md:grid-cols-2 gap-12 items-center">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 relative z-10">
+        <div className="grid md:grid-cols-2 gap-8 md:gap-12 items-center">
           {/* Left - Stats */}
           <div className="grid grid-cols-3 gap-8 scroll-animate-left">
             <div className="text-center">

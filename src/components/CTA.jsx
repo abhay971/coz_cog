@@ -1,6 +1,6 @@
 const CTA = () => {
   return (
-    <section className="relative py-20 bg-gradient-to-br from-white via-gray-50 to-white overflow-hidden">
+    <section className="relative py-12 md:py-20 bg-gradient-to-br from-white via-gray-50 to-white overflow-hidden">
       {/* Background Pattern */}
       <div className="absolute inset-0 opacity-5">
         <div className="absolute inset-0" style={{
@@ -8,7 +8,7 @@ const CTA = () => {
         }}></div>
       </div>
 
-      <div className="max-w-5xl mx-auto px-6 relative z-10 text-center scroll-animate">
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 relative z-10 text-center scroll-animate">
         <div className="inline-block mb-4">
           <span className="text-[#6EBD49] font-semibold text-sm uppercase tracking-wider">
             › GET STARTED
