@@ -8,10 +8,10 @@ const Footer = () => {
   ];
 
   const productLinks = [
-    { name: "Heavy Machinery", href: "#equipment" },
-    { name: "Industrial Equipment", href: "#equipment" },
-    { name: "Steel Products", href: "#equipment" },
-    { name: "Metal Trading", href: "#equipment" },
+    { name: "Defence Machinery", href: "#equipment" },
+    { name: "Industrial Machinery", href: "#equipment" },
+    { name: "Construction Machinery", href: "#equipment" },
+    { name: "Agriculture Machinery", href: "#equipment" },
   ];
 
   const serviceLinks = [

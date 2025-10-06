@@ -7,7 +7,7 @@ const Services = () => {
         </svg>
       ),
       title: 'Global Sourcing',
-      description: 'Access to premium quality metals and machinery from verified suppliers worldwide. We maintain strong relationships with manufacturers and distributors across all major markets.'
+      description: 'Access to premium quality machinery from verified suppliers worldwide across Defence, Industrial, Construction, and Agriculture sectors. We maintain strong relationships with manufacturers and distributors across all major markets.'
     },
     {
       icon: (
@@ -16,7 +16,7 @@ const Services = () => {
         </svg>
       ),
       title: 'Quality Inspection',
-      description: 'Comprehensive quality control and third-party inspection services. All materials and equipment are certified to meet international standards including ISO, ASTM, and EN specifications.'
+      description: 'Comprehensive quality control and third-party inspection services. All machinery and equipment are certified to meet international standards including ISO, CE, and industry-specific certifications for each sector.'
     },
     {
       icon: (
@@ -67,10 +67,10 @@ const Services = () => {
             </span>
           </div>
           <h2 className="text-5xl md:text-6xl font-bold text-black mb-6">
-            Comprehensive Trading Services
+            Comprehensive Machinery Solutions
           </h2>
           <p className="text-black text-lg max-w-3xl mx-auto">
-            We provide end-to-end trading solutions for metals and machinery, ensuring smooth transactions from sourcing to delivery. Our services are designed to meet the unique needs of international buyers and sellers.
+            We provide end-to-end machinery solutions across Defence, Industrial, Construction, and Agriculture sectors, ensuring smooth transactions from sourcing to delivery. Our services are designed to meet the unique needs of international buyers and sellers.
           </p>
         </div>
 

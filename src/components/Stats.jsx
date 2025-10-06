@@ -35,7 +35,7 @@ const Stats = () => {
             </h2>
 
             <p className="text-black text-lg leading-relaxed">
-              Our commitment to excellence in metals and machinery trading has earned us the trust of clients worldwide. We ensure every transaction meets the highest standards of quality, compliance, and reliability, making us the preferred choice for international trade.
+              Our commitment to excellence in specialized machinery trading has earned us the trust of clients worldwide. We ensure every transaction meets the highest standards of quality, compliance, and reliability across Defence, Industrial, Construction, and Agriculture sectors.
             </p>
 
             <button className="bg-[#F37E3A] hover:bg-[#d66d2f] text-white px-8 py-3 rounded-full font-semibold transition-all transform hover:scale-105 inline-flex items-center gap-2 shadow-lg">
